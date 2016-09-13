@@ -10,6 +10,12 @@ namespace gitHUB_testing
     {
         static void Main(string[] args)
         {
+
+            // come on work damn it
+
+            Console.WriteLine("hey ho");
+
+            // let's just commit something... illegal
         }
     }
 }
